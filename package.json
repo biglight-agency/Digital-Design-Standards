@@ -1,0 +1,23 @@
+{
+  "name": "digital-design-standards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biglight-agency/Digital-Design-Standards.git"
+  },
+  "author": "Nuno Bento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biglight-agency/Digital-Design-Standards/issues"
+  },
+  "homepage": "https://github.com/biglight-agency/Digital-Design-Standards#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}

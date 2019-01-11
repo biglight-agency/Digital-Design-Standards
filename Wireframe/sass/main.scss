@@ -1,0 +1,13 @@
+/*
+ * Based on: https://www.sitepoint.com/architecture-sass-project and https://www.sitepoint.com/8-tips-help-get-best-sass/
+ * Author: Nuno Bento + Chris Davies
+ * Company: Biglight
+ * Date:  11/01/2019
+ */
+
+@import 'base/_reset.scss';
+@import 'helpers/_variables.scss';
+
+body {
+    background-color: red;
+}  
